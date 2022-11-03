@@ -1,0 +1,15 @@
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\bin\Debug\net6.0\FruitMenu.exe
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\bin\Debug\net6.0\FruitMenu.deps.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\bin\Debug\net6.0\FruitMenu.runtimeconfig.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\bin\Debug\net6.0\FruitMenu.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\bin\Debug\net6.0\FruitMenu.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.AssemblyInfoInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.AssemblyInfo.cs
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\refint\FruitMenu.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\FruitMenu.genruntimeconfig.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\FruitMenu\obj\Debug\net6.0\ref\FruitMenu.dll
